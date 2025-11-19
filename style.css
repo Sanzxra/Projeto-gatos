@@ -14,7 +14,7 @@ nav {
     align-items: center;
     height: 50px;
 }
-img Logo {;
+img Logo {
     margin-left: 20px;
     margin-top: 10px;
     border-style: circle;
@@ -24,7 +24,7 @@ img Usuário {
     border-style: circle;
     margin: right 20px;
 }
-form input {;
+form input {
     width: 200px;
     height: 25px;
     border-radius: 5px;
